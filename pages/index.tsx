@@ -12,7 +12,6 @@ export const Homepage = () => {
         <Text fontSize="6xl">(6xl) In love with React & Next</Text>
       </Stack>
       <PanelTabs />
-      <h2>Je suis là</h2>
     </>
   );
 };
